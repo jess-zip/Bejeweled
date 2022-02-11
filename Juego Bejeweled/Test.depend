@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1545435336 source:c:\users\jessie guerrero\onedrive - universidad autónoma de aguascalientes\proyectos 3er semestre\bejeweled\bejeweled\use this one\main.cpp
+	<iostream>
+	<allegro.h>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<time.h>
+	<fstream>
+	"cClase.h"
+	"cJuego.h"
+
+1545436376 c:\users\jessie guerrero\onedrive - universidad autónoma de aguascalientes\proyectos 3er semestre\bejeweled\bejeweled\use this one\cclase.h
+	<iostream>
+
+1545524873 c:\users\jessie guerrero\onedrive - universidad autónoma de aguascalientes\proyectos 3er semestre\bejeweled\bejeweled\use this one\cjuego.h
+	<iostream>
+	<allegro.h>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<time.h>
+	<fstream>
+	"cClase.h"
+
+1545064407 source:c:\users\jessie guerrero\onedrive - universidad autónoma de aguascalientes\proyectos 3er semestre\bejeweled\bejeweled\use this one\copy.cpp
+	<time.h>
+

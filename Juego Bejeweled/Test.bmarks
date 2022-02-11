@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<BrowseTracker_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="main.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="629" topLine="11" />
+	</File>
+	<File name="cClase.h" open="1" top="0" tabpos="3">
+		<Cursor position="939" topLine="2" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="cJuego.h" open="1" top="1" tabpos="1">
+		<Cursor position="5333" topLine="10" />
+		<BrowseMarks positions="5329,5586" />
+		<Book_Marks positions="8358,9822,9833,8367" />
+	</File>
+</BrowseTracker_layout_file>
